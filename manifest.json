@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "YTdownloader",
+    "description": "This extension makes it easy to download YTvideos",
+    "version": "1.0",
+    "permissions": [
+        "<all_urls>",
+        "storage"
+    ],
+    "web_accessible_resources": [
+        "ytdl.js"
+    ],
+    "background": {
+        "scripts":["background.js"],
+        "persistent":true
+      },
+    "content_scripts": [ {
+        "matches": ["*://*.youtube.com/", "*://*.youtube.com/*", "*://youtube.com/", "*://youtube.com/*"],
+        "js": [ "download.js" ],
+        "run_at": "document_end"
+    }],
+    "icons": { "128": "YTdownloader.png" },
+    "browser_action": {
+        "default_icon": "YTdownloader.png",
+        "default_popup": "popup.html"
+    }
+}
