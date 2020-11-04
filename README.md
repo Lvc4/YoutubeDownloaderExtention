@@ -21,14 +21,11 @@ The installation is quite easy:
 * 0.1
    * First upload with MVP(minimal viable product)
 
-## Metadaten
+## Meta
 
-Tom – [Github: @tomtactom](https://github.com/tomtactom) – [WhatsApp](http://wa.me/00491234567890/?text=Hallo+Tom%2C%0D%0AIch+habe+auf+GitHub+dein+Projekt:+Produktname+-+https%3A%2F%2Fgithub.com%2Ftomtactom%2Freadme-beispiel.git+gefunden+und+habe+eine+Anmerkung+dazu.)
+Luca - [GitHub: @lucagrosshennig](https://github.com/lucagrosshennig)
+Tom – [GitHub: @tomtactom](https://github.com/tomtactom)
 
- _Wenn du bei dem Projekt mitarbeiten möchtest, schreibe einem der Entwickler per WhatsApp_
-
-* Für private Zwecke darf das Projekt verwendet werden.
-* Für alle anderen bitte um Nachfrage. Der Antrag wird wahrscheinlich genehmigt.
 * Please only use the download tool if you are authorized to do so. (e.g. for your own videos)
 * The project may be used for private purposes.
 * For everyone else, please ask. The application will likely be approved.
