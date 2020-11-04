@@ -16,13 +16,11 @@ The installation is quite easy:
 * There you activate the Developermode in the right upper corner.
 * Click on "load Unpacked" and input the path to the downloaded repository.
 
-## Versionsverlauf
-
+## Version history
 * 0.1
    * First upload with MVP(minimal viable product)
 
 ## Meta
-
 Luca - [GitHub: @lucagrosshennig](https://github.com/lucagrosshennig)
 Tom – [GitHub: @tomtactom](https://github.com/tomtactom)
 
