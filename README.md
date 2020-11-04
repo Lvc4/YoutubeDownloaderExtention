@@ -1,7 +1,7 @@
 # YoutubeDownloaderExtention
 >This is a fully client side Chrome extension to download YoutubeVideos in the highest available quality as mp4.
 
-![](https://repository-images.githubusercontent.com/296632014/6402cc80-f9c5-11ea-8f34-71283fc80c37)
+![](https://repository-images.githubusercontent.com/310074013/aed49700-1ed4-11eb-8a48-eb781312dbcc)
 
 You want to watch YouTube Videos offline without paying for YoutubePremium. Just use this Chrome extension. This is completely free and without adds.
 The extension inserts a download button into YouTube every time you open a YouTube video in the browser.
