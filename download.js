@@ -3,10 +3,10 @@
 async function insertDownload() {
   var url = window.location.href
   var output = url.split("?v=")[1].split("&")[0]
-  while(!document.querySelector("div#info > #menu-container > #menu > ytd-menu-renderer > #top-level-buttons")) {
+  while(!document.querySelector("div#info > #menu-container > #menu > ytd-menu-renderer > #top-level-buttons-computed")) {
     await new Promise(r => setTimeout(r, 500));
   }
-  var menu = document.querySelector("div#info > #menu-container > #menu > ytd-menu-renderer > #top-level-buttons");
+  var menu = document.querySelector("div#info > #menu-container > #menu > ytd-menu-renderer > #top-level-buttons-computed");
   console.log(menu);
   var a = document.createElement("a");
   ytdl.getInfo(url, {quality : "lowest"}).then((o) => {a.setAttribute('href', o.formats[0].url)});
